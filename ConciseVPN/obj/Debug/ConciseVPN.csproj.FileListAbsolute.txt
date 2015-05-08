@@ -1,0 +1,7 @@
+E:\DotNet\ConciseVPN\ConciseVPN\bin\Debug\ConciseVPN.exe
+E:\DotNet\ConciseVPN\ConciseVPN\bin\Debug\ConciseVPN.pdb
+E:\DotNet\ConciseVPN\ConciseVPN\obj\Debug\ConciseVPN.frmMain.resources
+E:\DotNet\ConciseVPN\ConciseVPN\obj\Debug\ConciseVPN.Properties.Resources.resources
+E:\DotNet\ConciseVPN\ConciseVPN\obj\Debug\ConciseVPN.csproj.GenerateResource.Cache
+E:\DotNet\ConciseVPN\ConciseVPN\obj\Debug\ConciseVPN.exe
+E:\DotNet\ConciseVPN\ConciseVPN\obj\Debug\ConciseVPN.pdb
