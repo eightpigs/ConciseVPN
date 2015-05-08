@@ -1,10 +1,12 @@
 # ConciseVPN
 
+
 ##简介
 
 >使用C#写的windows 下快捷管理VPN工具
 
 >可以实现对本地VPN的增加,修改,删除管理
+
 
 ##使用
 
@@ -19,6 +21,27 @@
 >提供一个VPN列表和用户信息列表(VPN的帐号),VPN列表是通过获取系统的adsl连接
 
 >用户列表可以多个,具体在程序启动目录的app.config里面配置user节点.
+
+
+##截图
+
+VPN连接成功,在屏幕右上方显示的绿色状态条
+![连接成功](/Screenshot/Screenshot_1.png)
+
+
+
+鼠标放到状态条显示的软件主界面
+![主界面](/Screenshot/Screenshot_2.png)
+
+
+
+VPN和用户列表
+![主界面的VPN/用户列表](/Screenshot/Screenshot_3.png)
+
+
+VPN未连接状态
+![未连接](/Screenshot/Screenshot_4.png)
+
 
 
 
